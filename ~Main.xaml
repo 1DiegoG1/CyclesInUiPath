@@ -77,7 +77,7 @@
           <av:Size x:Key="ShapeSize">200,66</av:Size>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <Sequence DisplayName="Cylces" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_6">
+      <Sequence DisplayName="Cylces" sap:VirtualizedContainerService.HintSize="496,2256" sap2010:WorkflowViewState.IdRef="Sequence_6">
         <Sequence.Variables>
           <Variable x:TypeArguments="scg:List(x:String)" Name="lstMessages" />
           <Variable x:TypeArguments="x:Int32" Name="varCount" />
